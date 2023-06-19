@@ -2,7 +2,8 @@
 아두이노 관련 코드와 회로도
 
 # flowchart
-![image](https://github.com/21117/arduino/assets/127743121/5e80dfa2-6423-4825-a8e9-a5e626ce9436)
+![image](https://github.com/21117/arduino/assets/127743121/2e27adbe-134a-4692-9d7a-f67c96696b0a)
+
 
 # H-bridge
 ![h-bridge](https://github.com/21117/arduino/assets/127743121/4e317bad-6053-47d0-a874-531fa81345fb)
